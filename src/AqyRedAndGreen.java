@@ -27,6 +27,7 @@ public class AqyRedAndGreen {
 
         System.out.println(min);
 
+        Map<String,String> re = new HashMap <>();
 
     }
 }
